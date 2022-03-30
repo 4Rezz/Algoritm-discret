@@ -18,7 +18,7 @@ void placeit(int n, int r) {
 	cout << A << endl;
 }
 
-void stirlinh(int en) {
+void stirling(int nom) {
 	const int num = 8;
 
 	cout << "Stirling Numbers:" << endl;
@@ -71,12 +71,13 @@ int main()
 {
 	int n = 5;
 	int r = 3;
+	int nom = 2 + 5 + 1;
 
 	cout << "Placement:" << endl;
 	placeit(n, r);
 	cout << endl << endl << endl;
 
-	int en = 2 + 5 + 1;
+	
 
-	stirlinh(en);
+	stirling(nom);
 }
