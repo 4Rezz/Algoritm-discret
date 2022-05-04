@@ -1,0 +1,16 @@
+C:\Users\Комп\Desktop\lab6csharp\bin\Debug\net5.0\lab6.exe
+C:\Users\Комп\Desktop\lab6csharp\bin\Debug\net5.0\lab6.deps.json
+C:\Users\Комп\Desktop\lab6csharp\bin\Debug\net5.0\lab6.runtimeconfig.json
+C:\Users\Комп\Desktop\lab6csharp\bin\Debug\net5.0\lab6.runtimeconfig.dev.json
+C:\Users\Комп\Desktop\lab6csharp\bin\Debug\net5.0\lab6.dll
+C:\Users\Комп\Desktop\lab6csharp\bin\Debug\net5.0\lab6.pdb
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\lab6.csproj.AssemblyReference.cache
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\lab6.AssemblyInfoInputs.cache
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\lab6.AssemblyInfo.cs
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\lab6.csproj.CoreCompileInputs.cache
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\lab6.dll
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\refint\lab6.dll
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\lab6.pdb
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\lab6.genruntimeconfig.cache
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\ref\lab6.dll

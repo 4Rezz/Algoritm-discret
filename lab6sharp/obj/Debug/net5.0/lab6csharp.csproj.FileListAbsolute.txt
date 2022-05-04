@@ -1,0 +1,32 @@
+C:\Users\Макс\source\repos\прогр дискр структур\lab6csharp\bin\Debug\net5.0\lab6csharp.exe
+C:\Users\Макс\source\repos\прогр дискр структур\lab6csharp\bin\Debug\net5.0\lab6csharp.deps.json
+C:\Users\Макс\source\repos\прогр дискр структур\lab6csharp\bin\Debug\net5.0\lab6csharp.runtimeconfig.json
+C:\Users\Макс\source\repos\прогр дискр структур\lab6csharp\bin\Debug\net5.0\lab6csharp.runtimeconfig.dev.json
+C:\Users\Макс\source\repos\прогр дискр структур\lab6csharp\bin\Debug\net5.0\lab6csharp.dll
+C:\Users\Макс\source\repos\прогр дискр структур\lab6csharp\bin\Debug\net5.0\lab6csharp.pdb
+C:\Users\Макс\source\repos\прогр дискр структур\lab6csharp\obj\Debug\net5.0\lab6csharp.csproj.AssemblyReference.cache
+C:\Users\Макс\source\repos\прогр дискр структур\lab6csharp\obj\Debug\net5.0\lab6csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\source\repos\прогр дискр структур\lab6csharp\obj\Debug\net5.0\lab6csharp.AssemblyInfoInputs.cache
+C:\Users\Макс\source\repos\прогр дискр структур\lab6csharp\obj\Debug\net5.0\lab6csharp.AssemblyInfo.cs
+C:\Users\Макс\source\repos\прогр дискр структур\lab6csharp\obj\Debug\net5.0\lab6csharp.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\прогр дискр структур\lab6csharp\obj\Debug\net5.0\lab6csharp.dll
+C:\Users\Макс\source\repos\прогр дискр структур\lab6csharp\obj\Debug\net5.0\ref\lab6csharp.dll
+C:\Users\Макс\source\repos\прогр дискр структур\lab6csharp\obj\Debug\net5.0\lab6csharp.pdb
+C:\Users\Макс\source\repos\прогр дискр структур\lab6csharp\obj\Debug\net5.0\lab6csharp.genruntimeconfig.cache
+C:\Users\Макс\source\repos\прогр дискр структур\lab6csharp\obj\Debug\net5.0\refint\lab6csharp.dll
+C:\Users\Комп\Desktop\lab6csharp\bin\Debug\net5.0\lab6csharp.exe
+C:\Users\Комп\Desktop\lab6csharp\bin\Debug\net5.0\lab6csharp.deps.json
+C:\Users\Комп\Desktop\lab6csharp\bin\Debug\net5.0\lab6csharp.runtimeconfig.json
+C:\Users\Комп\Desktop\lab6csharp\bin\Debug\net5.0\lab6csharp.runtimeconfig.dev.json
+C:\Users\Комп\Desktop\lab6csharp\bin\Debug\net5.0\lab6csharp.dll
+C:\Users\Комп\Desktop\lab6csharp\bin\Debug\net5.0\lab6csharp.pdb
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\lab6csharp.csproj.AssemblyReference.cache
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\lab6csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\lab6csharp.AssemblyInfoInputs.cache
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\lab6csharp.AssemblyInfo.cs
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\lab6csharp.csproj.CoreCompileInputs.cache
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\lab6csharp.dll
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\refint\lab6csharp.dll
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\lab6csharp.pdb
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\lab6csharp.genruntimeconfig.cache
+C:\Users\Комп\Desktop\lab6csharp\obj\Debug\net5.0\ref\lab6csharp.dll
